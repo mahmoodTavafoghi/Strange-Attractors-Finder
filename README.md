@@ -16,3 +16,12 @@ Realy beautiful images.
 
 
 <img src="https://github.com/mahmoodTavafoghi/Strange-Attractors-Finder/blob/main/IMG-20221221-WA0008.jpg" width="128"/>
+
+<img src="https://github.com/mahmoodTavafoghi/Strange-Attractors-Finder/blob/main/IMG-20221221-WA0012.jpg" width="128"/>
+<img src="https://github.com/mahmoodTavafoghi/Strange-Attractors-Finder/blob/main/IMG-20221221-WA0013.jpg" width="128"/>
+
+
+<img src="https://github.com/mahmoodTavafoghi/Strange-Attractors-Finder/blob/main/IMG-20221221-WA0023.jpg" width="128"/>
+
+
+<img src="https://github.com/mahmoodTavafoghi/Strange-Attractors-Finder/blob/main/IMG-20221221-WA0016.jpg" width="128"/>
